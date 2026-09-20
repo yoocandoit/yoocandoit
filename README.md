@@ -73,3 +73,13 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
 </p>
+---
+---
+
+<p align="center">
+  <i>Thanks for stopping by! 💜</i>
+</p>
+
+<p align="center">
+  <sub>Made with curiosity, caffeine, and a little bit of ricing.</sub>
+</p>
