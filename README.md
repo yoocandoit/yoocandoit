@@ -7,6 +7,7 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 # About Me
 
 ---
+```txt
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │             ┌──────────────┐                                 │
@@ -20,8 +21,7 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 │                     currently learning...                    │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
-
-
+```
                         yoocandoit@github
                         ─────────────────
                         name       Ario
