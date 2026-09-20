@@ -5,8 +5,6 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 
 ---
 # About Me
-
----
 ```txt
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
