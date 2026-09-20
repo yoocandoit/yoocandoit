@@ -9,14 +9,14 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │             ┌──────────────┐                                 │
-│             │              │      @yoocandoit                 │
-│             │    /\_/\\    │      management student          │
+│             │              │      @yoocandoit                │
+│             │    /\_/\\    │      management student         │
 │             │   ( o.o )    │      marketing                  │
-│             │    > ^ <     │                                  │
+│             │    > ^ <     │                                 │
 │             │              │      linux / anime / j-pop      │
 │             └──────────────┘      ricing / music / design    │
 │                                                              │
-│                     currently learning...                     │
+│                     currently learning...                    │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
