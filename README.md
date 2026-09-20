@@ -77,6 +77,9 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 
 ---
 
+![frieren](img/frieren.gif)
+
+---
 <p align="center">
   <i>Thanks for stopping by! 💜</i>
 </p>
@@ -84,3 +87,4 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 <p align="center">
   <sub>Made with curiosity, caffeine, and a little bit of ricing.</sub>
 </p>
+---
