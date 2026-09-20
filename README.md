@@ -1,10 +1,9 @@
-## Hi there 👋
+![Rin Chill](img/rin2.gif)
+# Hi There~ I'm Ario ^_^
 
-<!--
-**yoocandoit/yoocandoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious student exploring AI, C++, cognitive systems, Linux, and occasionally getting lost in random side projects.
 
-Here are some ideas to get you started:
-
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
