@@ -34,11 +34,11 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
   </a>
 
   <a href="https://facebook.com/ario.nuzlal.9">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
   <a href="https://instagram.com/yooevee_">
-    <img src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=cba6f7" />
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://www.reddit.com/user/linearl/">
