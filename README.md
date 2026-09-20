@@ -38,7 +38,7 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
   </a>
 
   <a href="https://instagram.com/yooevee_">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=cba6f7" />
   </a>
 
   <a href="https://www.reddit.com/user/linearl/">
