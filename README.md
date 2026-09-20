@@ -1,7 +1,20 @@
 ![Rin Chill](img/rin2.gif)
 # Hi There~ I'm Ario ^_^
 
-A curious student exploring AI, C++, cognitive systems, Linux, and occasionally getting lost in random side projects.
+Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
+
+---
+# About Me
+
+---
+                        yoocandoit@github
+                        ─────────────────
+                        name       Ario
+            /\_/\\      study      Management
+           ( o.o )      focus      Marketing
+            > ^ <       interest   Linux · Anime
+                        hobby      Ricing · Music
+                        currently  Building things
 
 ---
 
@@ -12,7 +25,7 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoocandoit&layout=compact&bg_color=00000000&title_color=cba6f7&text_color=cdd6f4&border_color=313244" height="160"/>
 </p>
 
-<h4 align="left">ᯓ Currently Listening ᯓ </h4>
+<!-- <h4 align="left">ᯓ Currently Listening ᯓ </h4>
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
