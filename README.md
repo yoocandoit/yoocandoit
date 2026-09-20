@@ -7,6 +7,21 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 # About Me
 
 ---
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│             ┌──────────────┐                                 │
+│             │              │      @yoocandoit                │
+│             │    /\_/\\    │      management student         │
+│             │   ( o.o )    │      marketing                  │
+│             │    > ^ <     │                                 │
+│             │              │      linux / anime / j-pop      │
+│             └──────────────┘      ricing / music / design    │
+│                                                              │
+│                     currently learning...                    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+
                         yoocandoit@github
                         ─────────────────
                         name       Ario
