@@ -5,7 +5,7 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 
 ---
 # About Me
-```txt
+<!--```txt
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │             ┌──────────────┐                                 │
@@ -19,8 +19,10 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 │                     currently learning...                    │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
-```
- <!--                   yoocandoit@github
+```-->
+ ```
+ ──────────────────────────────────────────────────────────────
+                        yoocandoit@github
                         ─────────────────
                         name       Ario
             /\_/\\      study      Management
@@ -28,7 +30,8 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
             > ^ <       interest   Linux · Anime
                         hobby      Ricing · Music
                         currently  Building things
--->
+──────────────────────────────────────────────────────────────
+```
 ---
 
 ## GitHub Stats
