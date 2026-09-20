@@ -8,8 +8,8 @@ A curious student exploring AI, C++, cognitive systems, Linux, and occasionally 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yoocandoit&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoocandoit&layout=compact&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yoocandoit&show_icons=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&border_color=313244" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoocandoit&layout=compact&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=313244" height="160"/>
 </p>
 
 <!-- <h4 align="left">ᯓ Currently Listening ᯓ </h4>
