@@ -2,6 +2,7 @@
 # Hi There~ I'm Ario ^_^
 
 Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
+```
 ⠀⠀⠀⢀⣾⣧⠀⠀⠀⢠⣾⣆⠀⠀⠀
 ⠀⠀⠀⣼⣿⣿⣇⠀⠀⣾⣿⣿⡄⠀⠀
 ⠀⠀⢠⣿⣿⣿⣿⣤⣴⣿⣿⣿⡇⠀⠀
@@ -12,6 +13,7 @@ Linux enthusiast · Hyprland ricer · Catppuccin enjoyer
 ⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀
 ⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀
 ⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀
+```
 ---
 # About Me
 <!--```txt
